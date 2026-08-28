@@ -7,15 +7,6 @@ equivalents — and what's most relevant here — are the scholarly corpora and
 benchmarks the field itself is trained and evaluated on. These are included
 below to satisfy the spirit of the requirement.
 
-## Format
-
-```
-- **Name**
-  Source: ...
-  Description: ...
-  Application: ...
-  [Link](url)
-```
 
 - **S2ORC (Semantic Scholar Open Research Corpus)**
   Source: Allen Institute for AI
